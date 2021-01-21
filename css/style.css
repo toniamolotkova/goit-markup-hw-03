@@ -91,7 +91,6 @@ img {
 
 .page-header {
   border-bottom: 1px solid #ececec;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .header {
   display: flex;
@@ -147,8 +146,10 @@ img {
 }
 
 .hero-title {
+  width: 696px;
+  margin-left: auto;
+  margin-right: auto;
   margin-bottom: 30px;
-  padding: 0 452px;
 
   font-weight: 900;
   font-size: 44px;
